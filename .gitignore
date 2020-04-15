@@ -1,0 +1,7 @@
+# ignore the following files/folders:
+*.log
+*.jou
+*.pb
+*cache
+*hw
+*sim
